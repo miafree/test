@@ -28,10 +28,10 @@ Border Collies are exceptionally smart, focused, and energetic dogs often consid
 
 *Photo source: Wikimedia Commons (file: Border_Collie_-_panoramio.jpg)*
 
-## French Bulldog
-French Bulldogs are compact, playful, and affectionate companion dogs known for their distinctive bat-like ears. Despite their small size, they have sturdy builds and bold personalities that fit well in city apartments. The breed developed from bulldog-type dogs in France and became a favorite among urban families.
+## English Bulldog
+English Bulldogs are calm, affectionate, and sturdy companion dogs with a distinctive wrinkled face and broad chest. They are medium-sized but low-energy, which can make them well-suited to relaxed household life. The breed was developed in England and is now widely loved for its gentle, loyal personality.
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bulldog_inglese.jpg" alt="French Bulldog" width="420" />
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bulldog_inglese.jpg" alt="English Bulldog" width="420" />
 
 *Photo source: Wikimedia Commons (file: Bulldog_inglese.jpg)*
 
