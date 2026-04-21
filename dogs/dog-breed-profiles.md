@@ -122,9 +122,9 @@ Cavalier King Charles Spaniels are gentle, affectionate, and graceful small dogs
 ## Miniature Schnauzer
 Miniature Schnauzers are spirited, alert, and friendly small dogs with a distinctive bearded muzzle and bushy eyebrows. They are intelligent, trainable, and often considered one of the most popular small breeds worldwide. Developed in Germany from the Standard Schnauzer, they were originally used on farms to catch rodents.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Miniature_schnauzer.jpg" alt="Miniature Schnauzer" width="420" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Miniature_Schnauzer_portrait_Mattie.jpg" alt="Miniature Schnauzer" width="420" />
 
-*Photo source: Wikimedia Commons (file: Miniature_schnauzer.jpg)*
+*Photo source: Wikimedia Commons (file: Miniature_Schnauzer_portrait_Mattie.jpg)*
 
 ## Pug
 Pugs are playful, charming, and mischievous small dogs known for their wrinkled face, curled tail, and big round eyes. They have an even-tempered personality and adapt well to family life, apartment living, and a variety of owners. Originally bred as companion dogs for Chinese emperors, they spread to Europe in the 16th century.
@@ -136,6 +136,6 @@ Pugs are playful, charming, and mischievous small dogs known for their wrinkled 
 ## Papillon
 Papillons are elegant, energetic, and highly intelligent toy spaniels named for their butterfly-shaped ears ("papillon" means butterfly in French). Despite their small size they are athletic, agile, and excel at dog sports such as agility and obedience. The breed has been depicted in European paintings as far back as the 16th century, often adorning the laps of royalty.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Papillon_444.jpg" alt="Papillon" width="420" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Papillon_lying_in_the_grass.jpg" alt="Papillon" width="420" />
 
-*Photo source: Wikimedia Commons (file: Papillon_444.jpg)*
+*Photo source: Wikimedia Commons (file: Papillon_lying_in_the_grass.jpg)*
