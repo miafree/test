@@ -1,5 +1,12 @@
 # 10 Wonderful Dog Breeds
 
+## Maltese
+Maltese dogs are affectionate, lively, and elegant toy-sized companions known for their long, silky white coat. Despite their small build, they are bold and alert, often forming strong bonds with their families. The breed has Mediterranean roots and has been cherished for centuries as a devoted lap dog.
+
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Maltese_600.jpg" alt="Maltese" width="420" />
+
+*Photo source: Wikimedia Commons (file: Maltese_600.jpg)*
+
 ## Labrador Retriever
 Labrador Retrievers are friendly, outgoing, and eager to please, which makes them one of the most popular family dogs in the world. They are medium-to-large dogs with athletic builds and plenty of energy for play, swimming, and training. Originally developed in Newfoundland and refined in the United Kingdom, Labs are also widely used as service and assistance dogs.
 
@@ -27,13 +34,6 @@ Border Collies are exceptionally smart, focused, and energetic dogs often consid
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Border_Collie_-_panoramio.jpg" alt="Border Collie" width="420" />
 
 *Photo source: Wikimedia Commons (file: Border_Collie_-_panoramio.jpg)*
-
-## English Bulldog
-English Bulldogs are calm, affectionate, and sturdy companion dogs with a distinctive wrinkled face and broad chest. They are medium-sized but low-energy, which can make them well-suited to relaxed household life. The breed was developed in England and is now widely loved for its gentle, loyal personality.
-
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bulldog_inglese.jpg" alt="English Bulldog" width="420" />
-
-*Photo source: Wikimedia Commons (file: Bulldog_inglese.jpg)*
 
 ## Beagle
 Beagles are curious, merry, and friendly scent hounds with a strong nose and a love for exploration. They are small-to-medium dogs that do best with regular activity and opportunities to follow scents. Their roots trace to England, where they were bred for tracking hare in packs.
