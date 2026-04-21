@@ -52,9 +52,9 @@ Siberian Huskies are energetic, social, and resilient dogs famous for their endu
 ## Poodle
 Poodles are bright, trainable, and elegant dogs that come in standard, miniature, and toy sizes. Their curly coat is low-shedding and often preferred by owners seeking less loose fur in the home. Although strongly associated with France, the breed originated in Germany as a water retriever.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Poodle_600.jpg" alt="Standard Poodle" width="420" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Poodle.jpg" alt="Standard Poodle" width="420" />
 
-*Photo source: Wikimedia Commons (file: Poodle_600.jpg)*
+*Photo source: Wikimedia Commons (file: Poodle.jpg)*
 
 ## Shiba Inu
 Shiba Inus are alert, independent, and spirited dogs with a fox-like face and a curled tail. They are small-to-medium in size and known for being clean, agile, and confident. This ancient Japanese breed was originally used for hunting in mountainous terrain.
@@ -66,9 +66,9 @@ Shiba Inus are alert, independent, and spirited dogs with a fox-like face and a 
 ## Great Dane
 Great Danes are gentle, calm, and affectionate giants often called “Apollo of dogs” because of their noble build. They are among the tallest dog breeds, yet many are famously patient and family-oriented. The breed was developed in Germany from large hunting and guardian dogs.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Great_Dane_black.jpg" alt="Great Dane" width="420" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Great_Dane_black_laying.jpg" alt="Great Dane" width="420" />
 
-*Photo source: Wikimedia Commons (file: Great_Dane_black.jpg)*
+*Photo source: Wikimedia Commons (file: Great_Dane_black_laying.jpg)*
 
 ## Chihuahua
 Chihuahuas are bold, alert, and fiercely loyal tiny dogs that often bond deeply with one person. They are the smallest recognized dog breed but carry themselves with confidence well beyond their size. Originally from Mexico, they are named after the state of Chihuahua and have a long recorded history in Mesoamerican cultures.
@@ -108,9 +108,9 @@ French Bulldogs are easygoing, charming, and adaptable small dogs with a bat-ear
 ## Bichon Frisé
 Bichon Frisés are cheerful, gentle, and sociable small dogs with a plush white powder-puff coat. They are hypoallergenic-friendly, low-shedding, and tend to get along well with children and other pets. Originating in the Mediterranean region, they became favorites among French and Spanish nobility during the Renaissance.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Bichon_Frise_white_dog.jpg" alt="Bichon Frisé" width="420" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Bichon_frise_central_park.jpg" alt="Bichon Frisé" width="420" />
 
-*Photo source: Wikimedia Commons (file: Bichon_Frise_white_dog.jpg)*
+*Photo source: Wikimedia Commons (file: Bichon_frise_central_park.jpg)*
 
 ## Cavalier King Charles Spaniel
 Cavalier King Charles Spaniels are gentle, affectionate, and graceful small dogs that thrive on companionship. They have a silky coat and large, expressive eyes that give them a perpetually warm and inviting expression. Named after King Charles II of England, who was famously devoted to the breed.
