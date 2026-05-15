@@ -6,6 +6,14 @@ Welcome to the `test` repository!
 
 This repository is intended for testing and experimentation. Feel free to explore, contribute, or use it for your own testing purposes.
 
+## Ascii Cat
+
+```text
+ /\_/\
+( o.o )
+ > ^ <
+```
+
 ## Getting Started
 
 1. **Clone the repository:**
